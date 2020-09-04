@@ -11,3 +11,13 @@ Input files:
 
 Output: 
 Clock plots in png and EPS format, with many options to query and group the data. 
+
+
+Dependencies:
+pandas
+datetime
+astral
+statistics
+numpy
+seaborn
+matplotlib
